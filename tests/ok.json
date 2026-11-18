@@ -1,0 +1,2 @@
+[{"name":"export moved to a file job","signals":["replay-01","jb-7f3a","ev-0001"],"verb":"investigate","who":"owner","note":"replay-01 00:12: job jb-7f3a 'failed' after the click"},
+ {"name":"export liked","signals":["mail-01","ev-0002","replay-01"],"verb":"expand","who":"owner","note":"mail-01 'easy to find'"}]
